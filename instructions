@@ -1,0 +1,7 @@
+create database laravel;
+use laravel;
+
+in the console write the next
+
+php artisan migrate
+php artisan serve
